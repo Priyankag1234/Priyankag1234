@@ -2,7 +2,7 @@
 
 <img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-### 🚀 SDET Intern | QA Automation Engineer | Java • Selenium • API Testing
+### SDET Intern | QA Automation Engineer | Java • Selenium • API Testing
 
 I enjoy breaking software before users do.
 
@@ -10,7 +10,7 @@ I'm passionate about building reliable automation frameworks, designing efficien
 
 ---
 
-## 💫 About Me
+##  About Me
 
 - 🔭 Building Automation Testing Frameworks using **Java + Selenium**
 - 🌱 Currently learning **Advanced Test Automation & CI/CD**
@@ -20,7 +20,7 @@ I'm passionate about building reliable automation frameworks, designing efficien
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Programming Languages
 
@@ -62,7 +62,7 @@ I'm passionate about building reliable automation frameworks, designing efficien
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🛒 E-commerce Test Automation Framework
 
@@ -80,7 +80,7 @@ I'm passionate about building reliable automation frameworks, designing efficien
 
 ---
 
-### 📦 High Traffic Order Management System
+###  High Traffic Order Management System
 
 - Backend API Testing
 - Database Validation
@@ -91,7 +91,7 @@ I'm passionate about building reliable automation frameworks, designing efficien
 
 ---
 
-### ✅ Enterprise QA Validation Suite
+### Enterprise QA Validation Suite
 
 - Manual + Automation Testing
 - Functional Testing
@@ -103,7 +103,7 @@ I'm passionate about building reliable automation frameworks, designing efficien
 
 ---
 
-## 🎯 What I Love Working On
+##  What I Love Working On
 
 - UI Test Automation
 - API Automation
@@ -150,4 +150,4 @@ while(codeCompiles){
 
 ---
 
-> *"Quality is never an accident; it is always the result of intelligent testing."* 🚀
+> *"Quality is never an accident; it is always the result of intelligent testing."* 
