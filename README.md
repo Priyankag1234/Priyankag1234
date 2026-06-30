@@ -144,9 +144,9 @@ while(codeCompiles){
 
 📧 **Email:** priyankag8048@gmail.com
 
-💼 **LinkedIn:** *(Add your LinkedIn URL)*
+💼 **LinkedIn:** *https://www.linkedin.com/in/priyankaaag/*
 
-💻 **GitHub:** *(Add your GitHub URL)*
+💻 **GitHub:**https://github.com/Priyankag1234 **
 
 ---
 
